@@ -1,0 +1,170 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 8337712700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Initializer.beforeHooks(Scenario)"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "User add a review to Canon EOS 5D item in Desktops tab",
+        "description": "",
+        "id": "give-a-review-on-canon;user-add-a-review-to-canon-eos-5d-item-in-desktops-tab",
+        "after": [
+          {
+            "result": {
+              "duration": 1107999200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Initializer.afterHooks(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8444011100,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "User is on Retail website",
+            "match": {
+              "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5670847600,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User click on Desktops tab",
+            "match": {
+              "location": "HpLaptopStepDefinition.user_click_on_Desktops_tab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4518900000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "User click on Show all desktops",
+            "match": {
+              "location": "HpLaptopStepDefinition.user_click_on_Show_all_desktops()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6625186100,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "User click on Canon EOS 5D item",
+            "match": {
+              "arguments": [
+                {
+                  "val": "5",
+                  "offset": 24
+                }
+              ],
+              "location": "CanonReviewStepDefinition.user_click_on_Canon_EOS_D_item(int)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5154732400,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "User click on write a review link",
+            "match": {
+              "location": "CanonReviewStepDefinition.user_click_on_write_a_review_link()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4685032800,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user fill the review information with below information",
+            "match": {
+              "location": "CanonReviewStepDefinition.user_fill_the_review_information_with_below_information(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "yourname",
+                  "yourReview",
+                  "Rating"
+                ],
+                "line": 18
+              },
+              {
+                "cells": [
+                  "name",
+                  "review",
+                  "Bad or good"
+                ],
+                "line": 19
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4587385200,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User click on Continue Button",
+            "match": {
+              "location": "CanonReviewStepDefinition.user_click_on_Continue_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3747884800,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "User should see a message with ‘Thank you for your review. It has been submitted to the webmaster for approval.”",
+            "match": {
+              "location": "CanonReviewStepDefinition.user_should_see_a_message_with_Thank_you_for_your_review_It_has_been_submitted_to_the_webmaster_for_approval()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 10,
+            "name": "@FriendsAlwaysgood"
+          }
+        ]
+      }
+    ],
+    "name": "Give a review on Canon",
+    "description": "",
+    "id": "give-a-review-on-canon",
+    "keyword": "Feature",
+    "uri": "Features/CanonReview.feature"
+  }
+]

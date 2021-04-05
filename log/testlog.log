@@ -1,0 +1,672 @@
+2021-02-04 21:32:48,120 - logger_File -INFO - Scenario Search functionality Test case Started 
+2021-02-04 21:32:52,076 - logger_File -INFO - Retail page is opened
+2021-02-04 21:32:52,084 - logger_File -INFO - Page title  is verified
+2021-02-04 21:32:52,646 - logger_File -INFO - User entered value in search bar
+2021-02-04 21:32:53,486 - logger_File -INFO - User clicked on search button
+2021-02-04 21:32:53,837 - logger_File -INFO - iPhone image is displayed
+2021-02-04 21:32:54,448 - logger_File -INFO - Search functionality Test case   passed
+2021-02-08 18:30:58,936 - logger_File -INFO - Scenario Login to MyAccount Started 
+2021-02-08 18:31:03,408 - logger_File -INFO - Retail page is opened
+2021-02-08 18:31:03,415 - logger_File -INFO - Page title  is verified
+2021-02-08 18:31:03,918 - logger_File -INFO - User click on My Account
+2021-02-08 18:31:04,168 - logger_File -INFO - User click on Login
+2021-02-08 18:31:07,537 - logger_File -INFO - User enter email address
+2021-02-08 18:31:07,588 - logger_File -INFO - User enter password
+2021-02-08 18:31:08,301 - logger_File -INFO - User click on Login button
+2021-02-08 18:31:12,221 - logger_File -INFO - Login to MyAccount   passed
+2021-02-08 18:31:12,226 - logger_File -INFO - Scenario Test Search functionality with multiple set of Data Started 
+2021-02-08 18:31:15,767 - logger_File -INFO - Retail page is opened
+2021-02-08 18:31:15,774 - logger_File -INFO - Page title  is verified
+2021-02-08 18:31:16,320 - logger_File -INFO - User entered value in search bar
+2021-02-08 18:31:17,137 - logger_File -INFO - User clicked on search button
+2021-02-08 18:31:17,765 - logger_File -INFO - Test Search functionality with multiple set of Data   passed
+2021-02-08 18:31:17,767 - logger_File -INFO - Scenario Test Search functionality with multiple set of Data Started 
+2021-02-08 18:31:20,820 - logger_File -INFO - Retail page is opened
+2021-02-08 18:31:20,825 - logger_File -INFO - Page title  is verified
+2021-02-08 18:31:21,396 - logger_File -INFO - User entered value in search bar
+2021-02-08 18:31:22,242 - logger_File -INFO - User clicked on search button
+2021-02-08 18:31:22,847 - logger_File -INFO - Test Search functionality with multiple set of Data   passed
+2021-02-08 18:31:22,850 - logger_File -INFO - Scenario Test Search functionality with multiple set of Data Started 
+2021-02-08 18:31:25,931 - logger_File -INFO - Retail page is opened
+2021-02-08 18:31:25,938 - logger_File -INFO - Page title  is verified
+2021-02-08 18:31:26,430 - logger_File -INFO - User entered value in search bar
+2021-02-08 18:31:27,271 - logger_File -INFO - User clicked on search button
+2021-02-08 18:31:27,891 - logger_File -INFO - Test Search functionality with multiple set of Data   passed
+2021-02-08 19:02:43,241 - logger_File -INFO - Scenario Search functionality Test case Started 
+2021-02-08 19:02:47,319 - logger_File -INFO - Retail page is opened
+2021-02-08 19:02:47,331 - logger_File -INFO - Page title  is verified
+2021-02-08 19:02:47,938 - logger_File -INFO - User entered value in search bar
+2021-02-08 19:02:48,785 - logger_File -INFO - User clicked on search button
+2021-02-08 19:02:49,181 - logger_File -INFO - iPhone image is displayed
+2021-02-08 19:02:49,799 - logger_File -INFO - Search functionality Test case   passed
+2021-02-08 19:02:49,804 - logger_File -INFO - Scenario Test Search Functionality with multiple set of Data Started 
+2021-02-08 19:02:53,000 - logger_File -INFO - Retail page is opened
+2021-02-08 19:02:53,006 - logger_File -INFO - Page title  is verified
+2021-02-08 19:02:53,500 - logger_File -INFO - User entered value in search bar
+2021-02-08 19:02:54,348 - logger_File -INFO - User clicked on search button
+2021-02-08 19:02:54,962 - logger_File -INFO - Test Search Functionality with multiple set of Data   passed
+2021-02-08 19:02:54,964 - logger_File -INFO - Scenario Test Search Functionality with multiple set of Data Started 
+2021-02-08 19:02:58,162 - logger_File -INFO - Retail page is opened
+2021-02-08 19:02:58,168 - logger_File -INFO - Page title  is verified
+2021-02-08 19:02:58,694 - logger_File -INFO - User entered value in search bar
+2021-02-08 19:02:59,522 - logger_File -INFO - User clicked on search button
+2021-02-08 19:03:00,147 - logger_File -INFO - Test Search Functionality with multiple set of Data   passed
+2021-02-08 19:03:00,151 - logger_File -INFO - Scenario Test Search Functionality with multiple set of Data Started 
+2021-02-08 19:03:03,158 - logger_File -INFO - Retail page is opened
+2021-02-08 19:03:03,164 - logger_File -INFO - Page title  is verified
+2021-02-08 19:03:03,640 - logger_File -INFO - User entered value in search bar
+2021-02-08 19:03:04,458 - logger_File -INFO - User clicked on search button
+2021-02-08 19:03:05,073 - logger_File -INFO - Test Search Functionality with multiple set of Data   passed
+2021-02-08 20:17:40,210 - logger_File -INFO - Scenario Search functionality Test case Started 
+2021-02-08 20:17:44,223 - logger_File -INFO - Retail page is opened
+2021-02-08 20:17:44,543 - logger_File -INFO - Scenario Test Search Functionality with multiple set of Data Started 
+2021-02-08 20:33:48,860 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-08 20:33:52,959 - logger_File -INFO - Retail page is opened
+2021-02-08 20:33:52,967 - logger_File -INFO - Page title  is verified
+2021-02-08 20:33:53,523 - logger_File -INFO - User click on My Account
+2021-02-08 20:33:54,153 - logger_File -INFO - Register an Account test case   undefined
+2021-02-08 20:43:05,775 - logger_File -INFO - Scenario Login to MyAccount Started 
+2021-02-08 20:43:09,886 - logger_File -INFO - Retail page is opened
+2021-02-08 20:43:09,893 - logger_File -INFO - Page title  is verified
+2021-02-08 21:05:51,135 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-08 21:06:01,230 - logger_File -INFO - Retail page is opened
+2021-02-08 21:06:01,236 - logger_File -INFO - Page title  is verified
+2021-02-08 21:06:01,712 - logger_File -INFO - User click on My Account
+2021-02-08 21:06:02,729 - logger_File -INFO - User clicked on Register option
+2021-02-08 21:06:03,370 - logger_File -INFO - Register an Account test case   failed
+2021-02-08 21:14:40,579 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-08 21:14:44,530 - logger_File -INFO - Retail page is opened
+2021-02-08 21:14:44,538 - logger_File -INFO - Page title  is verified
+2021-02-08 21:14:45,124 - logger_File -INFO - User click on My Account
+2021-02-08 21:14:45,719 - logger_File -INFO - User clicked on Register option
+2021-02-08 21:14:46,131 - logger_File -INFO - User filled the information form
+2021-02-08 21:14:46,544 - logger_File -INFO - User check privacy and policy
+2021-02-08 21:14:47,317 - logger_File -INFO - User clicked on Continue button
+2021-02-08 21:14:47,659 - logger_File -INFO - Account was created Successfully
+2021-02-08 21:14:48,296 - logger_File -INFO - Register an Account test case   passed
+2021-02-09 19:58:10,765 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-09 19:58:13,443 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-09 19:58:13,503 - logger_File -INFO - select * from public.actor: has been executed
+2021-02-09 19:58:13,505 - logger_File -INFO - ResultSet is stored in a csv file in outcome folder
+2021-02-09 19:58:13,505 - logger_File -INFO - DataBase connection has been closed
+2021-02-09 19:58:14,109 - logger_File -INFO - Execute all information from Actor Table   passed
+2021-02-09 20:03:13,267 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-09 20:03:15,437 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-09 20:03:15,458 - logger_File -INFO - select * from public.actor: has been executed
+2021-02-09 20:03:15,482 - logger_File -INFO - ResultSet is stored in a csv file in outcome folder
+2021-02-09 20:03:15,482 - logger_File -INFO - DataBase connection has been closed
+2021-02-09 20:03:16,118 - logger_File -INFO - Execute all information from Actor Table   passed
+2021-02-09 20:33:32,925 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-09 20:33:35,141 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-09 20:33:35,156 - logger_File -INFO - select * from public.actor: has been executed
+2021-02-09 20:33:35,158 - logger_File -INFO - ResultSet is stored in a csv file in outcome folder
+2021-02-09 20:33:35,159 - logger_File -INFO - DataBase connection has been closed
+2021-02-09 20:33:35,753 - logger_File -INFO - Execute all information from Actor Table   passed
+2021-02-09 20:34:32,200 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-09 20:34:34,366 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-09 20:34:34,381 - logger_File -INFO - select * from public.actor: has been executed
+2021-02-09 20:34:34,402 - logger_File -INFO - ResultSet is stored in a csv file in outcome folder
+2021-02-09 20:34:34,403 - logger_File -INFO - DataBase connection has been closed
+2021-02-09 20:34:34,986 - logger_File -INFO - Execute all information from Actor Table   passed
+2021-03-30 13:40:34,564 - logger_File -INFO - Scenario Login to MyAccount Started 
+2021-03-30 13:40:41,760 - logger_File -INFO - Retail page is opened
+2021-03-30 13:40:41,777 - logger_File -INFO - Page title  is verified
+2021-03-30 13:40:43,755 - logger_File -INFO - User click on My Account
+2021-03-30 13:40:46,937 - logger_File -INFO - User click on Login
+2021-03-30 13:40:50,492 - logger_File -INFO - User enter email address
+2021-03-30 13:40:50,566 - logger_File -INFO - User enter password
+2021-03-30 13:40:51,498 - logger_File -INFO - User click on Login button
+2021-03-30 13:40:55,691 - logger_File -INFO - Login to MyAccount   passed
+2021-03-30 20:05:47,775 - logger_File -INFO - Scenario Login to MyAccount Started 
+2021-03-30 20:05:52,238 - logger_File -INFO - Retail page is opened
+2021-03-30 20:05:52,249 - logger_File -INFO - Page title  is verified
+2021-03-30 20:05:53,078 - logger_File -INFO - User click on My Account
+2021-03-30 20:05:53,376 - logger_File -INFO - User click on Login
+2021-03-30 20:05:56,947 - logger_File -INFO - User enter email address
+2021-03-30 20:05:57,011 - logger_File -INFO - User enter password
+2021-03-30 20:05:58,140 - logger_File -INFO - User click on Login button
+2021-03-30 20:06:02,428 - logger_File -INFO - Login to MyAccount   passed
+2021-03-30 20:23:33,083 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-03-30 20:23:37,506 - logger_File -INFO - Retail page is opened
+2021-03-30 20:23:37,514 - logger_File -INFO - Page title  is verified
+2021-03-30 20:23:39,076 - logger_File -INFO - User add HP LP 3065 from Desktops tab to the cart   undefined
+2021-03-30 20:44:15,341 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-03-30 20:44:19,693 - logger_File -INFO - Retail page is opened
+2021-03-30 20:44:19,707 - logger_File -INFO - Page title  is verified
+2021-03-30 20:44:20,543 - logger_File -INFO - User should click on desktop
+2021-03-30 20:44:25,895 - logger_File -INFO - User should click on show all desktop
+2021-03-30 20:45:15,382 - logger_File -INFO - User add HP LP 3065 from Desktops tab to the cart   failed
+2021-03-30 20:48:06,602 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-03-30 20:48:10,822 - logger_File -INFO - Retail page is opened
+2021-03-30 20:48:10,840 - logger_File -INFO - Page title  is verified
+2021-03-30 20:48:11,725 - logger_File -INFO - User should click on desktop
+2021-03-30 20:48:16,975 - logger_File -INFO - User should click on show all desktop
+2021-03-30 20:48:20,686 - logger_File -INFO - User should add to cart option
+2021-03-30 20:48:23,358 - logger_File -INFO - User should select the quantity
+2021-03-30 20:48:32,735 - logger_File -INFO - User add HP LP 3065 from Desktops tab to the cart   failed
+2021-03-30 20:51:39,397 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-03-30 20:51:43,861 - logger_File -INFO - Retail page is opened
+2021-03-30 20:51:43,870 - logger_File -INFO - Page title  is verified
+2021-03-30 20:51:44,785 - logger_File -INFO - User should click on desktop
+2021-03-30 20:51:49,693 - logger_File -INFO - User should click on show all desktop
+2021-03-30 20:51:53,430 - logger_File -INFO - User should add to cart option
+2021-03-30 20:51:56,084 - logger_File -INFO - User should select the quantity
+2021-03-30 20:52:49,425 - logger_File -INFO - User add HP LP 3065 from Desktops tab to the cart   failed
+2021-03-30 21:02:57,587 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-03-30 21:03:07,858 - logger_File -INFO - Retail page is opened
+2021-03-30 21:03:07,895 - logger_File -INFO - Page title  is verified
+2021-03-30 21:03:14,574 - logger_File -INFO - User should click on desktop
+2021-03-30 21:03:20,287 - logger_File -INFO - User should click on show all desktop
+2021-03-30 21:03:24,059 - logger_File -INFO - User should add to cart option
+2021-03-30 21:03:27,727 - logger_File -INFO - User should select the quantity
+2021-03-30 21:04:17,395 - logger_File -INFO - User add HP LP 3065 from Desktops tab to the cart   failed
+2021-03-30 21:06:27,594 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-03-30 21:06:38,027 - logger_File -INFO - Retail page is opened
+2021-03-30 21:06:38,062 - logger_File -INFO - Page title  is verified
+2021-03-30 21:06:44,894 - logger_File -INFO - User should click on desktop
+2021-03-30 21:06:49,420 - logger_File -INFO - User should click on show all desktop
+2021-03-30 21:06:53,139 - logger_File -INFO - User should add to cart option
+2021-03-30 21:06:56,675 - logger_File -INFO - User should select the quantity
+2021-03-30 21:07:46,216 - logger_File -INFO - User add HP LP 3065 from Desktops tab to the cart   failed
+2021-03-30 21:11:44,765 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-03-30 21:11:50,739 - logger_File -INFO - Retail page is opened
+2021-03-30 21:11:50,812 - logger_File -INFO - Page title  is verified
+2021-03-30 21:11:56,306 - logger_File -INFO - User should click on desktop
+2021-03-30 21:12:01,226 - logger_File -INFO - User should click on show all desktop
+2021-03-30 21:12:04,939 - logger_File -INFO - User should add to cart option
+2021-03-30 21:12:08,504 - logger_File -INFO - User should select the quantity
+2021-03-30 21:12:57,996 - logger_File -INFO - User add HP LP 3065 from Desktops tab to the cart   failed
+2021-03-30 21:17:07,992 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-03-30 21:17:17,392 - logger_File -INFO - Retail page is opened
+2021-03-30 21:17:17,410 - logger_File -INFO - Page title  is verified
+2021-03-30 21:17:19,577 - logger_File -INFO - User should click on desktop
+2021-03-30 21:17:24,843 - logger_File -INFO - User should click on show all desktop
+2021-03-30 21:17:33,231 - logger_File -INFO - User clicked on cart add option
+2021-03-30 21:17:36,872 - logger_File -INFO - User added the quantity
+2021-03-30 21:17:41,555 - logger_File -INFO - User clicked add to cart button
+2021-03-30 21:17:47,218 - logger_File -INFO - The success message is displayed
+2021-03-30 21:17:47,909 - logger_File -INFO - User add HP LP 3065 from Desktops tab to the cart   passed
+2021-03-30 21:40:09,043 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-30 21:40:13,256 - logger_File -INFO - Retail page is opened
+2021-03-30 21:40:13,268 - logger_File -INFO - Page title  is verified
+2021-03-30 21:40:14,834 - logger_File -INFO - Add and Remove a Mac book from Cart   undefined
+2021-03-30 21:53:14,757 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-30 21:53:23,263 - logger_File -INFO - Retail page is opened
+2021-03-30 21:53:23,280 - logger_File -INFO - Page title  is verified
+2021-03-30 21:53:27,160 - logger_File -INFO - Add and Remove a Mac book from Cart   undefined
+2021-03-30 22:05:21,716 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-30 22:05:31,008 - logger_File -INFO - Retail page is opened
+2021-03-30 22:05:31,029 - logger_File -INFO - Page title  is verified
+2021-03-30 22:05:33,656 - logger_File -INFO - User Should Click on Mac laptob NoteBook
+2021-03-30 22:05:41,656 - logger_File -INFO - User should click on all laptop and notebook options
+2021-03-30 22:06:04,721 - logger_File -INFO - User should click on Mac Book Item
+2021-03-30 22:06:11,782 - logger_File -INFO - User clicked add to cart button
+2021-03-30 22:06:11,820 - logger_File -INFO - User Should See A success Massage for add items in the card
+2021-03-30 22:06:15,352 - logger_File -INFO - User should see Items in the card
+2021-03-30 22:06:18,427 - logger_File -INFO - User Should click on cart Option
+2021-03-30 22:06:21,971 - logger_File -INFO - User should click on red X button
+2021-03-30 22:06:22,496 - logger_File -INFO - User See Zero Items on the card
+2021-03-30 22:06:26,798 - logger_File -INFO - Add and Remove a Mac book from Cart   passed
+2021-03-30 22:19:35,164 - logger_File -INFO - Scenario Adding an item to Wish list Started 
+2021-03-30 22:19:39,743 - logger_File -INFO - Retail page is opened
+2021-03-30 22:19:39,763 - logger_File -INFO - Page title  is verified
+2021-03-30 22:19:42,594 - logger_File -INFO - User Should Click on Mac laptob NoteBook
+2021-03-30 22:19:46,807 - logger_File -INFO - User should click on all laptop and notebook options
+2021-03-30 22:19:49,346 - logger_File -INFO - Adding an item to Wish list   undefined
+2021-03-30 22:30:03,463 - logger_File -INFO - Scenario Adding an item to Wish list Started 
+2021-03-30 22:30:07,462 - logger_File -INFO - Retail page is opened
+2021-03-30 22:30:07,471 - logger_File -INFO - Page title  is verified
+2021-03-30 22:30:08,304 - logger_File -INFO - User Should Click on Mac laptob NoteBook
+2021-03-30 22:30:13,577 - logger_File -INFO - User should click on all laptop and notebook options
+2021-03-30 22:30:15,501 - logger_File -INFO - Adding an item to Wish list   undefined
+2021-03-30 22:36:38,620 - logger_File -INFO - Scenario Adding an item to Wish list Started 
+2021-03-30 22:36:42,700 - logger_File -INFO - Retail page is opened
+2021-03-30 22:36:42,709 - logger_File -INFO - Page title  is verified
+2021-03-30 22:36:43,542 - logger_File -INFO - User Should Click on Mac laptob NoteBook
+2021-03-30 22:36:48,827 - logger_File -INFO - User should click on all laptop and notebook options
+2021-03-30 22:36:50,368 - logger_File -INFO - Adding an item to Wish list   undefined
+2021-03-30 22:38:28,599 - logger_File -INFO - Scenario Adding an item to Wish list Started 
+2021-03-30 22:38:37,711 - logger_File -INFO - Retail page is opened
+2021-03-30 22:38:37,732 - logger_File -INFO - Page title  is verified
+2021-03-30 22:38:41,726 - logger_File -INFO - User Should Click on Mac laptob NoteBook
+2021-03-30 22:38:44,942 - logger_File -INFO - User should click on all laptop and notebook options
+2021-03-30 22:38:48,962 - logger_File -INFO - Adding an item to Wish list   undefined
+2021-03-30 22:46:26,362 - logger_File -INFO - Scenario Adding an item to Wish list Started 
+2021-03-30 22:46:40,009 - logger_File -INFO - Retail page is opened
+2021-03-30 22:46:40,028 - logger_File -INFO - Page title  is verified
+2021-03-30 22:46:42,211 - logger_File -INFO - User Should Click on Mac laptob NoteBook
+2021-03-30 22:46:45,386 - logger_File -INFO - User should click on all laptop and notebook options
+2021-03-30 22:46:47,767 - logger_File -INFO - Adding an item to Wish list   undefined
+2021-03-30 22:49:52,500 - logger_File -INFO - Scenario Adding an item to Wish list Started 
+2021-03-30 22:49:59,450 - logger_File -INFO - Retail page is opened
+2021-03-30 22:49:59,466 - logger_File -INFO - Page title  is verified
+2021-03-30 22:50:02,459 - logger_File -INFO - User Should Click on Mac laptob NoteBook
+2021-03-30 22:50:06,022 - logger_File -INFO - User should click on all laptop and notebook options
+2021-03-30 22:50:08,078 - logger_File -INFO - User should click on Sony VAIO wishlist 
+2021-03-30 22:50:10,162 - logger_File -INFO - User Should See The Ragister Requirment Massage
+2021-03-30 22:50:14,418 - logger_File -INFO - Adding an item to Wish list   passed
+2021-03-30 23:09:32,381 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-03-30 23:09:36,404 - logger_File -INFO - Retail page is opened
+2021-03-30 23:09:36,411 - logger_File -INFO - Page title  is verified
+2021-03-30 23:09:37,322 - logger_File -INFO - User Should Click on Mac laptob NoteBook
+2021-03-30 23:09:42,814 - logger_File -INFO - User should click on all laptop and notebook options
+2021-03-30 23:09:44,438 - logger_File -INFO - Validate the price of MacBook Pro is 2000   undefined
+2021-03-30 23:11:56,830 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-03-30 23:12:01,429 - logger_File -INFO - Retail page is opened
+2021-03-30 23:12:01,441 - logger_File -INFO - Page title  is verified
+2021-03-30 23:12:02,219 - logger_File -INFO - User Should Click on Mac laptob NoteBook
+2021-03-30 23:12:07,027 - logger_File -INFO - User should click on all laptop and notebook options
+2021-03-30 23:12:07,919 - logger_File -INFO - User Should click on MacBook pro items
+2021-03-30 23:12:12,253 - logger_File -INFO - Validate the price of MacBook Pro is 2000   undefined
+2021-03-30 23:14:03,617 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-03-30 23:14:08,484 - logger_File -INFO - Retail page is opened
+2021-03-30 23:14:08,496 - logger_File -INFO - Page title  is verified
+2021-03-30 23:14:09,356 - logger_File -INFO - User Should Click on Mac laptob NoteBook
+2021-03-30 23:14:14,313 - logger_File -INFO - User should click on all laptop and notebook options
+2021-03-30 23:14:15,286 - logger_File -INFO - User Should click on MacBook pro items
+2021-03-30 23:14:19,582 - logger_File -INFO - Validate the price of MacBook Pro is 2000   undefined
+2021-03-30 23:16:01,860 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-03-30 23:16:06,521 - logger_File -INFO - Retail page is opened
+2021-03-30 23:16:06,538 - logger_File -INFO - Page title  is verified
+2021-03-30 23:16:08,614 - logger_File -INFO - User Should Click on Mac laptob NoteBook
+2021-03-30 23:16:12,474 - logger_File -INFO - User should click on all laptop and notebook options
+2021-03-30 23:16:14,277 - logger_File -INFO - User Should click on MacBook pro items
+2021-03-30 23:16:18,594 - logger_File -INFO - Validate the price of MacBook Pro is 2000   undefined
+2021-03-30 23:17:43,673 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started 
+2021-03-30 23:17:52,295 - logger_File -INFO - Retail page is opened
+2021-03-30 23:17:52,316 - logger_File -INFO - Page title  is verified
+2021-03-30 23:17:58,433 - logger_File -INFO - User should click on desktop
+2021-03-30 23:18:02,993 - logger_File -INFO - User should click on show all desktop
+2021-03-30 23:18:11,309 - logger_File -INFO - User clicked on cart add option
+2021-03-30 23:18:14,988 - logger_File -INFO - User added the quantity
+2021-03-30 23:18:19,650 - logger_File -INFO - User clicked add to cart button
+2021-03-30 23:18:25,321 - logger_File -INFO - The success message is displayed
+2021-03-30 23:18:26,030 - logger_File -INFO - User add HP LP 3065 from Desktops tab to the cart   passed
+2021-03-30 23:18:26,043 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-03-30 23:18:29,891 - logger_File -INFO - Retail page is opened
+2021-03-30 23:18:29,905 - logger_File -INFO - Page title  is verified
+2021-03-30 23:18:33,314 - logger_File -INFO - User Should Click on Mac laptob NoteBook
+2021-03-30 23:18:38,090 - logger_File -INFO - User should click on all laptop and notebook options
+2021-03-30 23:18:40,489 - logger_File -INFO - User Should click on MacBook pro items
+2021-03-30 23:18:44,844 - logger_File -INFO - Validate the price of MacBook Pro is 2000   undefined
+2021-03-30 23:21:39,075 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-03-30 23:21:47,895 - logger_File -INFO - Retail page is opened
+2021-03-30 23:21:47,918 - logger_File -INFO - Page title  is verified
+2021-03-30 23:21:51,898 - logger_File -INFO - User Should Click on Mac laptob NoteBook
+2021-03-30 23:21:55,540 - logger_File -INFO - User should click on all laptop and notebook options
+2021-03-30 23:21:57,536 - logger_File -INFO - User Should click on MacBook pro items
+2021-03-30 23:22:01,875 - logger_File -INFO - Validate the price of MacBook Pro is 2000   undefined
+2021-03-30 23:26:27,646 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-03-30 23:26:36,675 - logger_File -INFO - Retail page is opened
+2021-03-30 23:26:36,699 - logger_File -INFO - Page title  is verified
+2021-03-30 23:26:41,317 - logger_File -INFO - User Should Click on Mac laptob NoteBook
+2021-03-30 23:26:44,512 - logger_File -INFO - User should click on all laptop and notebook options
+2021-03-30 23:26:46,005 - logger_File -INFO - User Should click on MacBook pro items
+2021-03-30 23:26:49,680 - logger_File -INFO - User should see the price tag
+2021-03-30 23:26:53,015 - logger_File -INFO - Validate the price of MacBook Pro is 2000   passed
+2021-03-31 20:44:27,928 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-31 20:44:31,185 - logger_File -INFO - Register as an Affiliate user with Cheque Payment Method   undefined
+2021-03-31 21:09:57,941 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-31 21:10:45,873 - logger_File -INFO - Register as an Affiliate user with Cheque Payment Method   failed
+2021-03-31 23:43:33,894 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-03-31 23:43:45,912 - logger_File -INFO - Retail page is opened
+2021-03-31 23:43:45,942 - logger_File -INFO - Page title  is verified
+2021-03-31 23:43:51,305 - logger_File -INFO - User should click on my account
+2021-03-31 23:43:54,678 - logger_File -INFO - User click on Login
+2021-03-31 23:43:58,252 - logger_File -INFO - User should enter the email
+2021-03-31 23:44:00,804 - logger_File -INFO - User should enter the password
+2021-03-31 23:44:03,887 - logger_File -INFO - User should see success message
+2021-03-31 23:44:06,783 - logger_File -INFO - User Should click on register
+2021-03-31 23:44:09,505 - logger_File -INFO - User should fill above info
+2021-03-31 23:44:12,447 - logger_File -INFO - user should click on about us check box
+2021-03-31 23:44:15,962 - logger_File -INFO - User should see success message
+2021-03-31 23:44:19,162 - logger_File -INFO - Register as an Affiliate user with Cheque Payment Method   passed
+2021-04-01 20:48:14,324 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-04-01 20:48:19,203 - logger_File -INFO - Retail page is opened
+2021-04-01 20:48:19,211 - logger_File -INFO - Page title  is verified
+2021-04-01 20:48:20,152 - logger_File -INFO - User should click on my account
+2021-04-01 20:48:25,171 - logger_File -INFO - User click on Login
+2021-04-01 20:48:28,717 - logger_File -INFO - User should enter the email
+2021-04-01 20:48:31,248 - logger_File -INFO - User should enter the password
+2021-04-01 20:48:34,206 - logger_File -INFO - User should see success message
+2021-04-01 20:49:22,481 - logger_File -INFO - Register as an Affiliate user with Cheque Payment Method   failed
+2021-04-01 20:55:26,902 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-04-01 20:55:31,552 - logger_File -INFO - Retail page is opened
+2021-04-01 20:55:31,563 - logger_File -INFO - Page title  is verified
+2021-04-01 20:55:32,420 - logger_File -INFO - User should click on my account
+2021-04-01 20:55:37,523 - logger_File -INFO - User click on Login
+2021-04-01 20:55:41,073 - logger_File -INFO - User should enter the email
+2021-04-01 20:55:43,589 - logger_File -INFO - User should enter the password
+2021-04-01 20:55:46,671 - logger_File -INFO - User should see success message
+2021-04-01 20:55:49,545 - logger_File -INFO - User Should click on register
+2021-04-01 20:55:52,269 - logger_File -INFO - User should fill above info
+2021-04-01 20:55:57,347 - logger_File -INFO - user should click on about us check box
+2021-04-01 20:56:00,861 - logger_File -INFO - User Should click on continue button
+2021-04-01 20:56:46,635 - logger_File -INFO - Register as an Affiliate user with Cheque Payment Method   failed
+2021-04-01 20:58:21,821 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started 
+2021-04-01 20:58:26,227 - logger_File -INFO - Retail page is opened
+2021-04-01 20:58:26,235 - logger_File -INFO - Page title  is verified
+2021-04-01 20:58:27,235 - logger_File -INFO - User should click on my account
+2021-04-01 20:58:32,040 - logger_File -INFO - User click on Login
+2021-04-01 20:58:35,592 - logger_File -INFO - User should enter the email
+2021-04-01 20:58:38,126 - logger_File -INFO - User should enter the password
+2021-04-01 20:58:41,086 - logger_File -INFO - User should see success message
+2021-04-01 20:58:43,823 - logger_File -INFO - User Should click on register
+2021-04-01 20:58:46,499 - logger_File -INFO - User should fill above info
+2021-04-01 20:58:51,556 - logger_File -INFO - user should click on about us check box
+2021-04-01 20:58:55,634 - logger_File -INFO - User Should click on continue button
+2021-04-01 20:58:55,681 - logger_File -INFO - User should see success message
+2021-04-01 20:58:58,828 - logger_File -INFO - Register as an Affiliate user with Cheque Payment Method   passed
+2021-04-01 22:15:39,568 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-04-01 22:15:43,656 - logger_File -INFO - Retail page is opened
+2021-04-01 22:15:43,670 - logger_File -INFO - Page title  is verified
+2021-04-01 22:15:44,500 - logger_File -INFO - User should click on my account
+2021-04-01 22:15:49,793 - logger_File -INFO - User click on Login
+2021-04-01 22:15:53,325 - logger_File -INFO - User should enter the email
+2021-04-01 22:15:55,872 - logger_File -INFO - User should enter the password
+2021-04-01 22:15:58,977 - logger_File -INFO - User should see success message
+2021-04-01 22:16:02,208 - logger_File -INFO - Edit your affiliate information from Cheque payment method to Bank Transfer   undefined
+2021-04-01 22:54:49,553 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-04-01 22:54:53,686 - logger_File -INFO - Retail page is opened
+2021-04-01 22:54:53,693 - logger_File -INFO - Page title  is verified
+2021-04-01 22:54:54,582 - logger_File -INFO - User should click on my account
+2021-04-01 22:54:59,724 - logger_File -INFO - User click on Login
+2021-04-01 22:55:03,242 - logger_File -INFO - User should enter the email
+2021-04-01 22:55:05,844 - logger_File -INFO - User should enter the password
+2021-04-01 22:55:08,747 - logger_File -INFO - User should see success message
+2021-04-01 22:55:11,555 - logger_File -INFO - User should click on Edite
+2021-04-01 22:55:14,855 - logger_File -INFO - Edit your affiliate information from Cheque payment method to Bank Transfer   failed
+2021-04-01 23:01:32,999 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-04-01 23:01:37,617 - logger_File -INFO - Retail page is opened
+2021-04-01 23:01:37,633 - logger_File -INFO - Page title  is verified
+2021-04-01 23:01:38,494 - logger_File -INFO - User should click on my account
+2021-04-01 23:01:43,407 - logger_File -INFO - User click on Login
+2021-04-01 23:01:46,976 - logger_File -INFO - User should enter the email
+2021-04-01 23:01:49,517 - logger_File -INFO - User should enter the password
+2021-04-01 23:01:52,645 - logger_File -INFO - User should see success message
+2021-04-01 23:01:55,483 - logger_File -INFO - User should click on Edite
+2021-04-01 23:01:58,691 - logger_File -INFO - Edit your affiliate information from Cheque payment method to Bank Transfer   failed
+2021-04-01 23:03:36,801 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-04-01 23:05:01,917 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-04-01 23:05:06,665 - logger_File -INFO - Retail page is opened
+2021-04-01 23:05:06,675 - logger_File -INFO - Page title  is verified
+2021-04-01 23:05:07,534 - logger_File -INFO - User should click on my account
+2021-04-01 23:05:12,200 - logger_File -INFO - User click on Login
+2021-04-01 23:05:15,741 - logger_File -INFO - User should enter the email
+2021-04-01 23:05:18,294 - logger_File -INFO - User should enter the password
+2021-04-01 23:05:21,400 - logger_File -INFO - User should see success message
+2021-04-01 23:05:24,228 - logger_File -INFO - User should click on Edite
+2021-04-01 23:05:27,396 - logger_File -INFO - Edit your affiliate information from Cheque payment method to Bank Transfer   failed
+2021-04-01 23:06:56,327 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-04-01 23:07:00,760 - logger_File -INFO - Retail page is opened
+2021-04-01 23:07:00,772 - logger_File -INFO - Page title  is verified
+2021-04-01 23:07:01,630 - logger_File -INFO - User should click on my account
+2021-04-01 23:07:07,175 - logger_File -INFO - User click on Login
+2021-04-01 23:07:10,722 - logger_File -INFO - User should enter the email
+2021-04-01 23:07:13,269 - logger_File -INFO - User should enter the password
+2021-04-01 23:07:16,435 - logger_File -INFO - User should see success message
+2021-04-01 23:07:19,154 - logger_File -INFO - User should click on Edite
+2021-04-01 23:07:21,699 - logger_File -INFO - User should click on bank Transfer
+2021-04-01 23:07:24,491 - logger_File -INFO - User should fill the information
+2021-04-01 23:07:27,434 - logger_File -INFO - User clicked on Continue button
+2021-04-01 23:07:27,490 - logger_File -INFO - User should see the massege displayed
+2021-04-01 23:07:30,634 - logger_File -INFO - Edit your affiliate information from Cheque payment method to Bank Transfer   passed
+2021-04-02 18:24:49,426 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-04-02 18:24:54,332 - logger_File -INFO - Retail page is opened
+2021-04-02 18:24:54,341 - logger_File -INFO - Page title  is verified
+2021-04-02 18:24:55,753 - logger_File -INFO - User should click on my account
+2021-04-02 18:25:00,223 - logger_File -INFO - User click on Login
+2021-04-02 18:25:03,859 - logger_File -INFO - User should enter the email
+2021-04-02 18:25:06,398 - logger_File -INFO - User should enter the password
+2021-04-02 18:25:09,540 - logger_File -INFO - User should see success message
+2021-04-02 18:25:12,324 - logger_File -INFO - User should click on Edite
+2021-04-02 18:25:14,837 - logger_File -INFO - User should click on bank Transfer
+2021-04-02 18:25:17,825 - logger_File -INFO - User should fill the information
+2021-04-02 18:25:21,223 - logger_File -INFO - User clicked on Continue button
+2021-04-02 18:25:21,268 - logger_File -INFO - User should see the massege displayed
+2021-04-02 18:25:24,525 - logger_File -INFO - Edit your affiliate information from Cheque payment method to Bank Transfer   passed
+2021-04-02 19:13:18,492 - logger_File -INFO - Scenario Edit your account Information Started 
+2021-04-02 19:13:23,093 - logger_File -INFO - Retail page is opened
+2021-04-02 19:13:23,120 - logger_File -INFO - Page title  is verified
+2021-04-02 19:13:24,004 - logger_File -INFO - User should click on my account
+2021-04-02 19:13:28,938 - logger_File -INFO - User click on Login
+2021-04-02 19:13:32,545 - logger_File -INFO - User should enter the email
+2021-04-02 19:13:35,127 - logger_File -INFO - User should enter the password
+2021-04-02 19:13:38,105 - logger_File -INFO - User should see success message
+2021-04-02 19:13:41,341 - logger_File -INFO - Edit your account Information   undefined
+2021-04-02 19:18:26,719 - logger_File -INFO - Scenario Edit your account Information Started 
+2021-04-02 19:18:31,288 - logger_File -INFO - Retail page is opened
+2021-04-02 19:18:31,308 - logger_File -INFO - Page title  is verified
+2021-04-02 19:18:32,307 - logger_File -INFO - User should click on my account
+2021-04-02 19:18:37,589 - logger_File -INFO - User click on Login
+2021-04-02 19:18:40,975 - logger_File -INFO - User should enter the email
+2021-04-02 19:18:43,621 - logger_File -INFO - User should enter the password
+2021-04-02 19:18:46,759 - logger_File -INFO - User should see success message
+2021-04-02 19:18:49,986 - logger_File -INFO - Edit your account Information   undefined
+2021-04-02 19:37:54,159 - logger_File -INFO - Scenario Edit your account Information Started 
+2021-04-02 19:37:58,761 - logger_File -INFO - Retail page is opened
+2021-04-02 19:37:58,772 - logger_File -INFO - Page title  is verified
+2021-04-02 19:37:59,649 - logger_File -INFO - User should click on my account
+2021-04-02 19:38:05,239 - logger_File -INFO - User click on Login
+2021-04-02 19:38:08,817 - logger_File -INFO - User should enter the email
+2021-04-02 19:38:11,368 - logger_File -INFO - User should enter the password
+2021-04-02 19:38:14,382 - logger_File -INFO - User should see success message
+2021-04-02 19:38:17,696 - logger_File -INFO - User should click on edite account information
+2021-04-02 19:38:20,473 - logger_File -INFO - User should click on edite account information
+2021-04-02 19:39:08,672 - logger_File -INFO - Edit your account Information   failed
+2021-04-02 19:40:14,507 - logger_File -INFO - Scenario Edit your account Information Started 
+2021-04-02 19:40:19,023 - logger_File -INFO - Retail page is opened
+2021-04-02 19:40:19,033 - logger_File -INFO - Page title  is verified
+2021-04-02 19:40:19,966 - logger_File -INFO - User should click on my account
+2021-04-02 19:40:25,153 - logger_File -INFO - User click on Login
+2021-04-02 19:40:28,688 - logger_File -INFO - User should enter the email
+2021-04-02 19:40:31,232 - logger_File -INFO - User should enter the password
+2021-04-02 19:40:34,256 - logger_File -INFO - User should see success message
+2021-04-02 19:40:37,568 - logger_File -INFO - User should click on edite account information
+2021-04-02 19:40:40,332 - logger_File -INFO - User should click on edite account information
+2021-04-02 19:41:28,513 - logger_File -INFO - Edit your account Information   failed
+2021-04-02 19:43:26,162 - logger_File -INFO - Scenario Edit your account Information Started 
+2021-04-02 19:43:30,588 - logger_File -INFO - Retail page is opened
+2021-04-02 19:43:30,597 - logger_File -INFO - Page title  is verified
+2021-04-02 19:43:31,593 - logger_File -INFO - User should click on my account
+2021-04-02 19:43:36,814 - logger_File -INFO - User click on Login
+2021-04-02 19:43:40,361 - logger_File -INFO - User should enter the email
+2021-04-02 19:43:42,895 - logger_File -INFO - User should enter the password
+2021-04-02 19:43:45,918 - logger_File -INFO - User should see success message
+2021-04-02 19:43:49,226 - logger_File -INFO - User should click on edite account information
+2021-04-02 19:43:51,993 - logger_File -INFO - User should click on edite account information
+2021-04-02 19:44:40,250 - logger_File -INFO - Edit your account Information   failed
+2021-04-02 19:46:46,278 - logger_File -INFO - Scenario Edit your account Information Started 
+2021-04-02 19:46:50,913 - logger_File -INFO - Retail page is opened
+2021-04-02 19:46:50,933 - logger_File -INFO - Page title  is verified
+2021-04-02 19:46:52,829 - logger_File -INFO - User should click on my account
+2021-04-02 19:46:56,864 - logger_File -INFO - User click on Login
+2021-04-02 19:47:00,580 - logger_File -INFO - User should enter the email
+2021-04-02 19:47:03,128 - logger_File -INFO - User should enter the password
+2021-04-02 19:47:06,178 - logger_File -INFO - User should see success message
+2021-04-02 19:47:09,467 - logger_File -INFO - User should click on edite account information
+2021-04-02 19:47:12,242 - logger_File -INFO - User should click on edite account information
+2021-04-02 19:52:29,928 - logger_File -INFO - Scenario Edit your account Information Started 
+2021-04-02 19:52:44,171 - logger_File -INFO - Retail page is opened
+2021-04-02 19:52:44,201 - logger_File -INFO - Page title  is verified
+2021-04-02 19:52:48,721 - logger_File -INFO - User should click on my account
+2021-04-02 19:52:52,586 - logger_File -INFO - User click on Login
+2021-04-02 19:52:56,179 - logger_File -INFO - User should enter the email
+2021-04-02 19:52:58,744 - logger_File -INFO - User should enter the password
+2021-04-02 19:53:01,824 - logger_File -INFO - User should see success message
+2021-04-02 19:53:05,225 - logger_File -INFO - User should click on edite account information
+2021-04-02 19:53:08,148 - logger_File -INFO - User should click on edite account information
+2021-04-02 19:53:56,454 - logger_File -INFO - Edit your account Information   failed
+2021-04-02 20:26:01,807 - logger_File -INFO - Scenario Edit your account Information Started 
+2021-04-02 20:26:05,961 - logger_File -INFO - Retail page is opened
+2021-04-02 20:26:05,974 - logger_File -INFO - Page title  is verified
+2021-04-02 20:26:06,908 - logger_File -INFO - User should click on my account
+2021-04-02 20:26:12,205 - logger_File -INFO - User click on Login
+2021-04-02 20:26:15,917 - logger_File -INFO - User should enter the email
+2021-04-02 20:26:18,582 - logger_File -INFO - User should enter the password
+2021-04-02 20:26:21,693 - logger_File -INFO - User should see success message
+2021-04-02 20:26:25,146 - logger_File -INFO - User should click on edite account information
+2021-04-02 20:26:28,588 - logger_File -INFO - Edit your account Information   undefined
+2021-04-02 20:31:01,251 - logger_File -INFO - Scenario Edit your account Information Started 
+2021-04-02 20:31:06,202 - logger_File -INFO - Retail page is opened
+2021-04-02 20:31:06,210 - logger_File -INFO - Page title  is verified
+2021-04-02 20:31:07,166 - logger_File -INFO - User should click on my account
+2021-04-02 20:31:11,764 - logger_File -INFO - User click on Login
+2021-04-02 20:31:15,320 - logger_File -INFO - User should enter the email
+2021-04-02 20:31:17,873 - logger_File -INFO - User should enter the password
+2021-04-02 20:31:20,878 - logger_File -INFO - User should see success message
+2021-04-02 20:31:24,215 - logger_File -INFO - User should click on edite account information
+2021-04-02 20:32:12,916 - logger_File -INFO - Edit your account Information   failed
+2021-04-02 20:33:56,425 - logger_File -INFO - Scenario Edit your account Information Started 
+2021-04-02 20:34:02,720 - logger_File -INFO - Retail page is opened
+2021-04-02 20:34:02,728 - logger_File -INFO - Page title  is verified
+2021-04-02 20:34:03,792 - logger_File -INFO - User should click on my account
+2021-04-02 20:34:07,203 - logger_File -INFO - User click on Login
+2021-04-02 20:34:10,778 - logger_File -INFO - User should enter the email
+2021-04-02 20:34:13,325 - logger_File -INFO - User should enter the password
+2021-04-02 20:34:16,355 - logger_File -INFO - User should see success message
+2021-04-02 20:34:19,723 - logger_File -INFO - User should click on edite account information
+2021-04-02 20:35:08,373 - logger_File -INFO - Edit your account Information   failed
+2021-04-02 20:51:44,106 - logger_File -INFO - Scenario Edit your account Information Started 
+2021-04-02 20:51:49,324 - logger_File -INFO - Retail page is opened
+2021-04-02 20:51:49,334 - logger_File -INFO - Page title  is verified
+2021-04-02 20:51:50,122 - logger_File -INFO - User should click on my account
+2021-04-02 20:51:55,469 - logger_File -INFO - User click on Login
+2021-04-02 20:51:59,068 - logger_File -INFO - User should enter the email
+2021-04-02 20:52:01,663 - logger_File -INFO - User should enter the password
+2021-04-02 20:52:04,680 - logger_File -INFO - User should see success message
+2021-04-02 20:52:07,957 - logger_File -INFO - User should click on edite account information
+2021-04-02 20:52:56,584 - logger_File -INFO - Edit your account Information   failed
+2021-04-02 20:55:05,080 - logger_File -INFO - Scenario Edit your account Information Started 
+2021-04-02 20:55:10,709 - logger_File -INFO - Retail page is opened
+2021-04-02 20:55:10,720 - logger_File -INFO - Page title  is verified
+2021-04-02 20:55:11,635 - logger_File -INFO - User should click on my account
+2021-04-02 20:55:16,265 - logger_File -INFO - User click on Login
+2021-04-02 20:55:19,875 - logger_File -INFO - User should enter the email
+2021-04-02 20:55:22,431 - logger_File -INFO - User should enter the password
+2021-04-02 20:55:25,473 - logger_File -INFO - User should see success message
+2021-04-02 20:55:28,775 - logger_File -INFO - User should click on edite account information
+2021-04-02 20:56:17,439 - logger_File -INFO - Edit your account Information   failed
+2021-04-02 20:57:46,463 - logger_File -INFO - Scenario Edit your account Information Started 
+2021-04-02 20:57:50,929 - logger_File -INFO - Retail page is opened
+2021-04-02 20:57:50,937 - logger_File -INFO - Page title  is verified
+2021-04-02 20:57:51,878 - logger_File -INFO - User should click on my account
+2021-04-02 20:57:56,892 - logger_File -INFO - User click on Login
+2021-04-02 20:58:00,449 - logger_File -INFO - User should enter the email
+2021-04-02 20:58:02,994 - logger_File -INFO - User should enter the password
+2021-04-02 20:58:05,894 - logger_File -INFO - User should see success message
+2021-04-02 20:58:09,125 - logger_File -INFO - Edit your account Information   failed
+2021-04-02 21:03:17,686 - logger_File -INFO - Scenario Edit your account Information Started 
+2021-04-02 21:03:22,405 - logger_File -INFO - Retail page is opened
+2021-04-02 21:03:22,415 - logger_File -INFO - Page title  is verified
+2021-04-02 21:03:23,381 - logger_File -INFO - User should click on my account
+2021-04-02 21:03:28,069 - logger_File -INFO - User click on Login
+2021-04-02 21:03:31,621 - logger_File -INFO - User should enter the email
+2021-04-02 21:03:34,147 - logger_File -INFO - User should enter the password
+2021-04-02 21:03:37,122 - logger_File -INFO - User should see success message
+2021-04-02 21:03:40,346 - logger_File -INFO - User should click on edite account information
+2021-04-03 21:03:27,675 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-04-03 21:03:35,096 - logger_File -INFO - Retail page is opened
+2021-04-03 21:03:35,105 - logger_File -INFO - Page title  is verified
+2021-04-03 21:03:35,879 - logger_File -INFO - User should click on desktop
+2021-04-03 21:03:39,924 - logger_File -INFO - User should click on show all desktop
+2021-04-03 21:04:29,387 - logger_File -INFO - User add Canon EOS 5D from Desktops tab to the cart   failed
+2021-04-03 21:11:39,885 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-04-03 21:11:52,298 - logger_File -INFO - Retail page is opened
+2021-04-03 21:11:52,320 - logger_File -INFO - Page title  is verified
+2021-04-03 21:11:54,192 - logger_File -INFO - User should click on desktop
+2021-04-03 21:11:58,630 - logger_File -INFO - User should click on show all desktop
+2021-04-03 21:12:48,068 - logger_File -INFO - User add Canon EOS 5D from Desktops tab to the cart   failed
+2021-04-03 21:27:58,357 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-04-03 21:28:13,682 - logger_File -INFO - Retail page is opened
+2021-04-03 21:28:13,726 - logger_File -INFO - Page title  is verified
+2021-04-03 21:28:15,969 - logger_File -INFO - User should click on desktop
+2021-04-03 21:28:21,054 - logger_File -INFO - User should click on show all desktop
+2021-04-03 21:29:10,308 - logger_File -INFO - User add Canon EOS 5D from Desktops tab to the cart   failed
+2021-04-03 21:32:36,445 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-04-03 21:32:52,737 - logger_File -INFO - Retail page is opened
+2021-04-03 21:32:52,768 - logger_File -INFO - Page title  is verified
+2021-04-03 21:32:57,320 - logger_File -INFO - User should click on desktop
+2021-04-03 21:33:02,052 - logger_File -INFO - User should click on show all desktop
+2021-04-03 21:33:51,481 - logger_File -INFO - User add Canon EOS 5D from Desktops tab to the cart   failed
+2021-04-03 21:44:05,242 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-04-03 21:44:22,195 - logger_File -INFO - Retail page is opened
+2021-04-03 21:44:22,249 - logger_File -INFO - Page title  is verified
+2021-04-03 21:44:26,990 - logger_File -INFO - User should click on desktop
+2021-04-03 21:44:32,330 - logger_File -INFO - User should click on show all desktop
+2021-04-03 21:45:21,993 - logger_File -INFO - User add Canon EOS 5D from Desktops tab to the cart   failed
+2021-04-03 21:48:47,871 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-04-03 21:49:04,704 - logger_File -INFO - Retail page is opened
+2021-04-03 21:49:04,730 - logger_File -INFO - Page title  is verified
+2021-04-03 21:49:08,848 - logger_File -INFO - User should click on desktop
+2021-04-03 21:49:13,374 - logger_File -INFO - User should click on show all desktop
+2021-04-03 21:50:02,860 - logger_File -INFO - User add Canon EOS 5D from Desktops tab to the cart   failed
+2021-04-03 21:50:30,357 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-04-03 21:50:40,731 - logger_File -INFO - Retail page is opened
+2021-04-03 21:50:40,767 - logger_File -INFO - Page title  is verified
+2021-04-03 21:50:46,782 - logger_File -INFO - User should click on desktop
+2021-04-03 21:50:51,332 - logger_File -INFO - User should click on show all desktop
+2021-04-03 21:51:40,729 - logger_File -INFO - User add Canon EOS 5D from Desktops tab to the cart   failed
+2021-04-03 21:54:33,756 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-04-03 21:54:43,780 - logger_File -INFO - Retail page is opened
+2021-04-03 21:54:43,806 - logger_File -INFO - Page title  is verified
+2021-04-03 21:54:48,280 - logger_File -INFO - User should click on desktop
+2021-04-03 21:54:53,349 - logger_File -INFO - User should click on show all desktop
+2021-04-03 22:00:30,955 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-04-03 22:00:45,264 - logger_File -INFO - Retail page is opened
+2021-04-03 22:00:45,302 - logger_File -INFO - Page title  is verified
+2021-04-03 22:00:50,334 - logger_File -INFO - User should click on desktop
+2021-04-03 22:00:56,024 - logger_File -INFO - User should click on show all desktop
+2021-04-03 22:01:45,574 - logger_File -INFO - User add Canon EOS 5D from Desktops tab to the cart   failed
+2021-04-03 22:03:39,817 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-04-03 22:03:50,197 - logger_File -INFO - Retail page is opened
+2021-04-03 22:03:50,238 - logger_File -INFO - Page title  is verified
+2021-04-03 22:03:55,785 - logger_File -INFO - User should click on desktop
+2021-04-03 22:04:01,430 - logger_File -INFO - User should click on show all desktop
+2021-04-03 22:04:05,990 - logger_File -INFO - User add Canon EOS 5D from Desktops tab to the cart   undefined
+2021-04-03 22:10:20,446 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started 
+2021-04-03 22:10:31,637 - logger_File -INFO - Retail page is opened
+2021-04-03 22:10:31,669 - logger_File -INFO - Page title  is verified
+2021-04-03 22:10:36,229 - logger_File -INFO - User should click on desktop
+2021-04-03 22:10:41,927 - logger_File -INFO - User should click on show all desktop
+2021-04-03 22:10:48,895 - logger_File -INFO - User click
+2021-04-03 22:10:52,157 - logger_File -INFO - User select color from the dropdown box
+2021-04-03 22:10:56,270 - logger_File -INFO - User added the quantity
+2021-04-03 22:11:00,833 - logger_File -INFO - User clicked add to cart button
+2021-04-03 22:11:03,880 - logger_File -INFO - User should see the success message after click add to cart button
+2021-04-03 22:11:05,312 - logger_File -INFO - User add Canon EOS 5D from Desktops tab to the cart   passed
+2021-04-03 22:20:58,054 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started 
+2021-04-03 22:21:15,118 - logger_File -INFO - Retail page is opened
+2021-04-03 22:21:15,149 - logger_File -INFO - Page title  is verified
+2021-04-03 22:21:20,657 - logger_File -INFO - User should click on desktop
+2021-04-03 22:21:26,880 - logger_File -INFO - User should click on show all desktop
+2021-04-03 22:21:33,683 - logger_File -INFO - clickOnCanonEOS5D
+2021-04-03 22:21:37,346 - logger_File -INFO - User should click on review button
+2021-04-03 22:21:42,142 - logger_File -INFO - sayed ahmad
+2021-04-03 22:21:42,143 - logger_File -INFO - This is the Best Camera quality camera to Use
+2021-04-03 22:21:45,718 - logger_File -INFO - User Should clike on continue
+2021-04-03 22:21:50,241 - logger_File -INFO - User Should see the final Massage is displayed
+2021-04-03 22:21:54,584 - logger_File -INFO - User add a review to Canon EOS 5D item in Desktops tab   passed
+2021-04-03 22:32:42,892 - logger_File -INFO - Scenario Product Comparison Started 
+2021-04-03 22:32:53,105 - logger_File -INFO - Retail page is opened
+2021-04-03 22:32:53,141 - logger_File -INFO - Page title  is verified
+2021-04-03 22:32:57,316 - logger_File -INFO - User Should Click on Mac laptob NoteBook
+2021-04-03 22:33:00,932 - logger_File -INFO - User should click on all laptop and notebook options
+2021-04-03 22:33:03,429 - logger_File -INFO - User Should Clicked On MacBook Comparison
+2021-04-03 22:33:07,460 - logger_File -INFO - User should Clicked On MacbookAir
+2021-04-03 22:33:11,062 - logger_File -INFO - User Should see the Massage of MacBook Air added Successfully
+2021-04-03 22:33:15,227 - logger_File -INFO - User should click on Comparison Link
+2021-04-03 22:33:18,704 - logger_File -INFO - User should see the Product Comparison charts Displayed
+2021-04-03 22:33:22,914 - logger_File -INFO - Product Comparison   passed
+2021-04-03 23:10:23,285 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started 
+2021-04-03 23:10:34,565 - logger_File -INFO - Retail page is opened
+2021-04-03 23:10:34,608 - logger_File -INFO - Page title  is verified
+2021-04-03 23:10:39,971 - logger_File -INFO - User should click on desktop
+2021-04-03 23:10:46,282 - logger_File -INFO - User should click on show all desktop
+2021-04-03 23:10:52,470 - logger_File -INFO - clickOnCanonEOS5D
+2021-04-03 23:10:56,716 - logger_File -INFO - User should click on review button
+2021-04-03 23:11:02,780 - logger_File -INFO - sayed ahmad
+2021-04-03 23:11:02,781 - logger_File -INFO - This is the Best Camera quality camera to Use
+2021-04-03 23:11:06,530 - logger_File -INFO - User Should clike on continue
+2021-04-03 23:11:11,056 - logger_File -INFO - User Should see the final Massage is displayed
+2021-04-03 23:11:15,882 - logger_File -INFO - User add a review to Canon EOS 5D item in Desktops tab   passed
